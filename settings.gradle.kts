@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "CRS Child Car Seat Design Assistant"
+rootProject.name = "CRS Design Assistant"
 include(":app")
