@@ -11,6 +11,10 @@ local.properties
 captures/
 *.log
 
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
 # IDE
 .idea/
 *.iml
@@ -21,7 +25,3 @@ captures/
 # Keystore
 *.jks
 *.keystore
-
-# OS
-.DS_Store
-Thumbs.db
